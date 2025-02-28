@@ -97,7 +97,7 @@ We welcome contributions! To contribute:
 ---
 
 ## 📧 Contact
-For questions or collaborations, reach out via [GitHub Issues](https://github.com/ajibadeboluwatife/nyc-parking-violations/issues) or email at `ajibadebolu0306@gmail.com@example.com`.
+For questions or collaborations, reach out via [GitHub Issues](https://github.com/ajibadeboluwatife/nyc-parking-violations/issues) or email at `ajibadebolu0306@gmail.com`.
 
 🚀 **Let's make NYC parking better together!**
 
